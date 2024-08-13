@@ -1,0 +1,14 @@
+
+h1 {
+    color:aquamarine
+}
+
+p {
+    color: rgb(255, 238, 0);
+    text-align: justify;
+    padding: 1%;
+}
+.img_config {
+    width: 10%;
+    height: 10%;
+}
